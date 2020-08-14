@@ -1,0 +1,68 @@
+.avatar {
+width: 86px;
+height: 86px;
+background: #4456FB;
+margin-top: 10vh;
+margin-left: 10vh;
+}
+
+.avatar span {
+font-style: normal;
+font-weight: 800;
+font-size: 28px;
+line-height: 105.3%;
+color: #FFFFFF;
+margin-left: 25%;
+}
+
+.navs {
+margin-left: 10vh;
+margin-top: 10vh;
+}
+
+.banner {  
+background: linear-gradient(257.1deg, #AE5BD6 27.51%, #4052F0 113.53%);
+background-blend-mode: screen;
+height: 100vh;
+background: url(images/Vector-12.png)
+}
+
+.welcome {
+font-style: normal;
+font-weight: bold;
+font-size: 88px;
+line-height: 105.3%;
+color: #FFFFFF;
+margin-top: 20vh;
+margin-left: 20vh;
+}
+
+.welcome h5 {
+font-style: normal;
+font-size: 28px;
+line-height: 105.3%;
+}
+
+.welcome p {
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 22px;
+}
+
+.social-links {
+width: 833px;
+height: 51px;
+background: #FFFFFF;
+border-radius: 60px;
+}
+
+.social-links p {
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+color: #4F5461;
+}
+    
+
