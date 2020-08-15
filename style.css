@@ -23,8 +23,8 @@ margin-top: 10vh;
 .banner {  
 background: linear-gradient(257.1deg, #AE5BD6 27.51%, #4052F0 113.53%);
 background-blend-mode: screen;
-height: 100vh;
-background: url(images/Vector-12.png)
+height: 680px;
+background: url(images/Vector-12-+.png)
 }
 
 .welcome {
@@ -64,5 +64,81 @@ font-size: 16px;
 line-height: 19px;
 color: #4F5461;
 }
+
+.all-left {
+padding-left: 20vh;;
+}
+
+.title {    
+color: #4F5461;
+font-size: 28px;
+line-height: 105.3%;
+margin-bottom: 5%;
+font-style: normal;
+font-weight: bold;
+}
+
+.thumbnail-item {      
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.15) 0%, rgba(0, 0, 0, 0) 98.35%), url(image.png);
+    border: 1px solid rgba(0, 0, 0, 0.05);
+    box-sizing: border-box;
+    border-radius: 10px;
+    margin-right: 8%;
+    margin-bottom: 8%;
+    height: 40vh;
+}
+
+.about-me text {
+    padding-left: 0;
+    font-size: 16px;
+line-height: 22px;
+color: #737986;
+}
+
+.resume-lnk {
+width: 193px;
+height: 59px;
+background: #4456FB;
+border-radius: 60px;
+padding-top: 20px;
+}
+
+.resume-lnk p {
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 105.3%;
+text-align: center;
+color: #FFFFFF;
+}
+
+.tech-item {
+    width: 266px;
+    height: 341px;
+    background: #F5F8FD;
+    border-radius: 10px;
+    margin-top: 10vh;
+    margin-right: 10vh;
+    font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 242.5%;
+color: #737986;
+}
+
+.tech-item p {
+font-style: normal;
+font-weight: bold;
+font-size: 22px;
+line-height: 105.3%;
+color: #4F5461;
+margin-top: 5vh;
+padding-left: 5vh;
+}
+
+
+
+
+
     
 
