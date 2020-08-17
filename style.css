@@ -193,8 +193,11 @@ padding-left: 5vh;
     background-blend-mode: screen;    
     height: 556px;
     background: url(images/footer-shape.png);
-    background-size: 1139px 556px;
-       
+    background-size: 1139px 556px;       
+}
+
+#inputMessage {
+    width: 66%;
 }
 
 
