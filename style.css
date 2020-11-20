@@ -2,83 +2,97 @@
     padding: 0;
     margin: 0;
 }
+
+.myIcon {    
+    font-size: 20px;
+}
+
 .avatar {
-width: 86px;
-height: 86px;
-background: #4456FB;
-margin-top: 10vh;
-margin-left: 10vh;
+    width: 86px;
+    height: 86px;
+    background: #4456FB;
+    margin-top: 10vh;
+    margin-left: 10vh;
 }
 
 .avatar span {
-font-style: normal;
-font-weight: 800;
-font-size: 28px;
-line-height: 105.3%;
-color: #FFFFFF;
-margin-left: 25%;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 28px;
+    line-height: 105.3%;
+    color: #FFFFFF;
+    margin-left: 25%;
 }
 
 .navs {
-margin-left: 10vh;
-margin-top: 10vh;
+    margin-left: 10vh;
+    margin-top: 10vh;
 }
 
 .banner {  
-background: linear-gradient(257.1deg, #AE5BD6 27.51%, #4052F0 113.53%);
-background-blend-mode: screen;
-height: 680px;
-background: url(images/Vector-12-+.png)
+    background: linear-gradient(257.1deg, #AE5BD6 27.51%, #4052F0 113.53%);
+    background-blend-mode: screen;
+    height: 680px;
+    background: url(images/Vector-12-+.png)
 }
 
 .welcome {
-font-style: normal;
-font-weight: bold;
-font-size: 88px;
-line-height: 105.3%;
-color: #FFFFFF;
-margin-top: 20vh;
-margin-left: 20vh;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 88px;
+    line-height: 105.3%;
+    color: #FFFFFF;
+    margin-top: 20vh;
+    margin-left: 20vh;
 }
 
 .welcome h5 {
-font-style: normal;
-font-size: 28px;
-line-height: 105.3%;
+    font-style: normal;
+    font-size: 28px;
+    line-height: 105.3%;
 }
 
 .welcome p {
-font-style: normal;
-font-weight: normal;
-font-size: 16px;
-line-height: 22px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
 }
 
 .social-links {
-width: 833px;
-height: 51px;
-background: #FFFFFF;
-border-radius: 60px;
+    width: 833px;
+    height: 51px;
+    background: #FFFFFF;
+    border-radius: 60px;
+    
 }
 
 .social-links p {
-font-style: normal;
-font-weight: normal;
-font-size: 16px;
-line-height: 19px;
-color: #4F5461;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    color: #4F5461;
+}
+
+
+
+.social-icon {
+    font-size: 25px;
+    margin-right: 10px;
+    color: gray;
 }
 
 .all-left {
-padding-left: 20vh;
+    padding-left: 20vh;
 }
 
 .title {    
-color: #4F5461;
-font-size: 28px;
-line-height: 105.3%;
-font-style: normal;
-font-weight: bold;
+    color: #4F5461;
+    font-size: 28px;
+    line-height: 105.3%;
+    font-style: normal;
+    font-weight: bold;
 }
 
 .thumbnails {
@@ -138,26 +152,26 @@ font-weight: bold;
 }
 
 .about-me text {
-font-size: 16px;
-line-height: 22px;
-color: #737986;
+    font-size: 16px;
+    line-height: 22px;
+    color: #737986;
 }
 
 .resume-lnk {
-width: 193px;
-height: 59px;
-background: #4456FB;
-border-radius: 60px;
-padding-top: 20px;
+    width: 193px;
+    height: 59px;
+    background: #4456FB;
+    border-radius: 60px;
+    padding-top: 20px;
 }
 
 .resume-lnk p {
-font-style: normal;
-font-weight: bold;
-font-size: 16px;
-line-height: 105.3%;
-text-align: center;
-color: #FFFFFF;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 105.3%;
+    text-align: center;
+    color: #FFFFFF;
 }
 
 .tech-item {
@@ -168,20 +182,20 @@ color: #FFFFFF;
     margin-top: 10vh;
     margin-right: 10vh;
     font-style: normal;
-font-weight: normal;
-font-size: 16px;
-line-height: 242.5%;
-color: #737986;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 242.5%;
+    color: #737986;
 }
 
 .tech-item p {
-font-style: normal;
-font-weight: bold;
-font-size: 22px;
-line-height: 105.3%;
-color: #4F5461;
-margin-top: 5vh;
-padding-left: 5vh;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 105.3%;
+    color: #4F5461;
+    margin-top: 5vh;
+    padding-left: 5vh;
 }
 
 .contact-note {
