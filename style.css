@@ -10,7 +10,7 @@
 .avatar {
     width: 86px;
     height: 86px;
-    background: #4456FB;
+    background: #232e88;
     margin-top: 10vh;
     margin-left: 10vh;
 }
@@ -27,6 +27,10 @@
 .navs {
     margin-left: 10vh;
     margin-top: 10vh;
+}
+
+.navs a {
+    color: black;
 }
 
 .banner {  
@@ -105,8 +109,7 @@
     box-sizing: border-box;
     border-radius: 10px;
     margin-right: 8%;
-    margin-bottom: 8%;
-    height: 40vh;    
+    margin-bottom: 8%;   
 }
 
 .thumbnail-item-1 {
@@ -170,7 +173,7 @@
 .resume-lnk {
     width: 193px;
     height: 59px;
-    background: #4456FB;
+    background: #232e88;
     border-radius: 60px;
     padding-top: 20px;
 }
@@ -222,6 +225,10 @@
 
 #inputMessage {
     width: 66%;
+}
+
+.lower-social-links {
+    color: white;
 }
 
 
